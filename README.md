@@ -4,4 +4,4 @@
 
 ### In this repository I will be posting my solutions to the code wars challenges.
 
-- [Jaden Smith String Capitalize](./jaden-smith-challenge/README.md)
+- [Jaden Smith String Capitalize](./jaden-smith-challenge)
