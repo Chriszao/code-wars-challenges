@@ -11,8 +11,11 @@ Example:
   Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 ```
 
+
+
 # My Solution
 *I tried to think of something more descriptive and easier to understand.*
+*I used typescript for this challenge*
 
 ```ts
 String.prototype.toJadenCase = function (): string {
